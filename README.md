@@ -10,7 +10,6 @@ My goal is to work through this project to help the company understand if they s
 
 The dataset contains 294478 rows of data about the website users containing:
 user_id,	timestamp,	group,	landing_page and	converted.
-The dataset is provided.
 
 
 ## Summary of Findings
